@@ -1,5 +1,7 @@
-# cypress-demo
-
+# cypress-课程作业
+## 小组成员
+贺浩庭 严宋扬
+添加的测试文件为3-demo下的xj.spec.js
 ## Cypress 工程搭建步骤
 
 1. 在gitee上创建git 仓库
